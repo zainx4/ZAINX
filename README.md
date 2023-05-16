@@ -378,3 +378,7 @@ Lax.js has been designed to be performant but there are a few things to bare in 
 | easeInBounce   |
 | easeOutBack    |
 | easeInBack     |
+THIS IS MY FIRST PROJECT
+
+
+
